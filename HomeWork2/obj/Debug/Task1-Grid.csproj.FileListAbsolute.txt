@@ -1,0 +1,17 @@
+C:\Users\admin\source\repos\HomeWork2\HomeWork2\bin\Debug\HomeWork2.exe.config
+C:\Users\admin\source\repos\HomeWork2\HomeWork2\bin\Debug\HomeWork2.exe
+C:\Users\admin\source\repos\HomeWork2\HomeWork2\bin\Debug\HomeWork2.pdb
+C:\Users\admin\source\repos\HomeWork2\HomeWork2\obj\Debug\Task1-Grid.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\HomeWork2\HomeWork2\obj\Debug\MainWindow.g.cs
+C:\Users\admin\source\repos\HomeWork2\HomeWork2\obj\Debug\App.g.cs
+C:\Users\admin\source\repos\HomeWork2\HomeWork2\obj\Debug\HomeWork2_MarkupCompile.cache
+C:\Users\admin\source\repos\HomeWork2\HomeWork2\obj\Debug\HomeWork2_MarkupCompile.lref
+C:\Users\admin\source\repos\HomeWork2\HomeWork2\obj\Debug\MainWindow.baml
+C:\Users\admin\source\repos\HomeWork2\HomeWork2\obj\Debug\HomeWork2.g.resources
+C:\Users\admin\source\repos\HomeWork2\HomeWork2\obj\Debug\HomeWork2.Properties.Resources.resources
+C:\Users\admin\source\repos\HomeWork2\HomeWork2\obj\Debug\Task1-Grid.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\HomeWork2\HomeWork2\obj\Debug\Task1-Grid.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\HomeWork2\HomeWork2\obj\Debug\HomeWork2.exe
+C:\Users\admin\source\repos\HomeWork2\HomeWork2\obj\Debug\HomeWork2.pdb
+C:\Users\admin\source\repos\HomeWork2\HomeWork2\bin\Debug\NCalc.dll
+C:\Users\admin\source\repos\HomeWork2\HomeWork2\obj\Debug\Task1-Grid.csproj.CopyComplete
